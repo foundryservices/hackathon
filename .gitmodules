@@ -1,0 +1,18 @@
+[submodule "solana/dapp-scaffold"]
+	path = solana/dapp-scaffold
+	url = https://github.com/solana-labs/dapp-scaffold.git
+[submodule "near/create-near-app"]
+	path = near/create-near-app
+	url = https://github.com/near/create-near-app.git
+[submodule "livepeer/file-video"]
+	path = livepeer/file-video
+	url = https://github.com/livepeer/file-video.git
+[submodule "stacks/photoblock-demo"]
+	path = stacks/photoblock-demo
+	url = https://github.com/blockstack/photoblock-demo
+[submodule "stacks/todos"]
+	path = stacks/todos
+	url = https://github.com/hirosystems/todos
+[submodule "horizen/Sidechains-SDK"]
+	path = horizen/Sidechains-SDK
+	url = https://github.com/HorizenOfficial/Sidechains-SDK
