@@ -13,7 +13,7 @@ Foundry works to empower a decentralized infrastructure. We are protocol-agnosti
 - [Filecoin](http://filecoin.io/)   
 - [Stacks](https://stacks.co/)     
 - [Solana](https://solana.com/)   
-- [FLow](https://onflow.org)
+- [Flow](https://onflow.org)
 
 If you are interested in developing on another protocol reach out in the [discord](https://discord.gg/Uubv6ch2jx)
 
