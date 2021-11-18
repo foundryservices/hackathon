@@ -16,3 +16,9 @@
 [submodule "horizen/Sidechains-SDK"]
 	path = horizen/Sidechains-SDK
 	url = https://github.com/HorizenOfficial/Sidechains-SDK
+[submodule "solana/solana-program-library"]
+	path = solana/solana-program-library
+	url = https://github.com/solana-labs/solana-program-library.git
+[submodule "solana/anchor"]
+	path = solana/anchor
+	url = https://github.com/project-serum/anchor
