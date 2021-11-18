@@ -13,4 +13,3 @@
 - [Metamask snap extension](https://github.com/ChainSafe/filsnap) 
 - [Web3 blog](https://github.com/natclark/append) 
 - [Wrapped filecoin](https://github.com/naszam/wfil) 
-- 
