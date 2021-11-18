@@ -10,5 +10,5 @@
 - Demo Applications 
   - [Demo App](https://github.com/livepeer/livepeer-demo-app)
   - [JWPlayer Demo](https://github.com/livepeer/livepeer-jwplayer-demo) 
-  - [React native demo](https://github.com/livepeer/livepeer-demo-react-native 
+  - [React native demo](https://github.com/livepeer/livepeer-demo-react-native)
 - [file.video](https://github.com/livepeer/file-video) 
