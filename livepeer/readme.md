@@ -4,7 +4,7 @@
 - [Development Homepage](https://livepeer.com/) 
 - [Guides](https://livepeer.com/docs/guides) for livestreaming, etc. 
 - [Example Application](https://livepeer.com/docs/guides/application-development/example-app) 
-- [Overview of the Development Stack](https://medium.com/livepeer-blog/the-livepeer-development-stack-technology-behind-live-streaming-built-on-ethereum-d6a06158d5e2 
+- [Overview of the Development Stack](https://medium.com/livepeer-blog/the-livepeer-development-stack-technology-behind-live-streaming-built-on-ethereum-d6a06158d5e2)
 
 ## Projects
 - Demo Applications 
